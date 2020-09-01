@@ -72,3 +72,9 @@ Directly download from a manga site of your choosing.
 an information site for scanlation so when you ask if x manga has been fully done check this site. its a very useful site and very simple to use.
 
 sauce: https://www.reddit.com/r/animepiracy/comments/ijysra/the_ultimate_guide_to_reading_manga/
+
+---------------------------------------
+
+| LoLyeah's other dumps |
+| --------------------- |
+| Typemoon dumps (https://github.com/LoLyeah/dump/blob/master/typemoon.md) |

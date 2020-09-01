@@ -81,5 +81,4 @@ sauce: https://www.reddit.com/r/animepiracy/comments/ijysra/the_ultimate_guide_t
 
 ---------------------------------------
 
-## Join Our Discord
-https://discord.gg/fNRc3Zc
+## Join Our Discord - https://discord.gg/fNRc3Zc

@@ -78,3 +78,6 @@ sauce: https://www.reddit.com/r/animepiracy/comments/ijysra/the_ultimate_guide_t
 | LoLyeah's other dumps |
 | --------------------- |
 | [Typemoon dumps](https://github.com/LoLyeah/dump/blob/master/typemoon.md) |
+
+# Join Our Discord
+https://discord.gg/fNRc3Zc

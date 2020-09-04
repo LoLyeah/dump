@@ -97,7 +97,7 @@ https://mega. nz/#F!IEgnySDK!wvEo43UGmHFEKC1JBVykGw
 
 | LoLyeah's other dumps |
 | --------------------- |
-| [Typemoon dumps](https://github.com/LoLyeah/dump/blob/master/typemoon.md) |
+| [Ultimate Manga Guide](https://github.com/LoLyeah/dump) |
 
 ---------------------------------------
 

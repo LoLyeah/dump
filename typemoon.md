@@ -90,4 +90,15 @@ tsukikan. com/
 https://mega. nz/#!fHgSVb5L!EPDHKU2KHLdjW1bM2b0-VV7WzrA9xPqrLnJTu0AkwyY
 ## Type-Moon Mega folders
 https://mega. nz/#F!tBRTDDLT!6-uk9SmrvHKLFYU_3QTwgQ
+
 https://mega. nz/#F!IEgnySDK!wvEo43UGmHFEKC1JBVykGw
+
+---------------------------------------
+
+| LoLyeah's other dumps |
+| --------------------- |
+| [Typemoon dumps](https://github.com/LoLyeah/dump/blob/master/typemoon.md) |
+
+---------------------------------------
+
+## Join Our Discord - https://discord.gg/fNRc3Zc

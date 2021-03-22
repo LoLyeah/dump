@@ -23,7 +23,7 @@ Similar to Mangadex except its not. Everyone is free to upload so quality varies
 
 ### Literally any aggregate site
 
-Mangakakalot, mangapark, fanfox whatever etc. These rip aggressively and do not care about quality. There library but there quality is horrible. If an april fools chapter is uploaded it will remain there forever.
+Mangakakalot, mangapark, fanfox whatever etc. These rip aggressively and do not care about quality. There library but there quality is horrible. If an april fools chapter is uploaded it will remain there forever. [List of aggregate sites that I knew](https://github.com/LoLyeah/dump/blob/master/aggregate.md)
 
 ## Clients (Online & Offline)
 ### Android: Tachiyomi

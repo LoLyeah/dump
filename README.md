@@ -9,6 +9,8 @@
 
 Why: Well for one 98% scantalators upload on this site. When you see aggregate sites get an update thats because they took it from this site. Now morality and all that blah blah blah. But this site does have the fastest updates. However because they allow for scantalators to upload or not some decide not to. Which is perfectly understandable. But you should know that some manga will not be uploaded on this site. It also will not upload any official translation of manga.
 
+Since Mangadex is temporary closed as of 22/03/2021, you can use any alternatives below.
+
 ### Mangasee123.com or Manga4life.com (official rips)
 
 This site actually uploads official rips of manga. so its 110% illegal but it has the highest quality. Now because its meant to be a streaming manga reading site. The offical rips by kodansha or viz or what not actually have been downscaled. Now if you do read it of course you won't notice a major difference unless you have a 4k monitor but yes the difference is there. As for as speed. It is slower than normal. Some chapters can take up to a week (official). But overall if quality is your main point than this is the one. Both sites are controlled by the same person.
@@ -19,7 +21,7 @@ Yaoi stuff. Basically this has a lot of LGBT stuff. So if you can't find the gay
 
 ### bato.to
 
-Similar to Mangadex except its not. Everyone is free to upload so quality varies greatly. Have an awful UI and owned by MangaPark. Obviously it's not the original Batoto we once know. They also allow reupload from official translation, so there's that. Have many languages too like Mangadex.
+Similar to Mangadex except its not. Everyone is free to upload so quality varies greatly. Have an awful UI and owned by MangaPark. Obviously it's not the original Batoto we once know. They also allow reupload from official translation, so there's that. Have many languages too like Mangadex. Not recommended but you could use it if you want.
 
 ### Literally any aggregate site
 
@@ -82,7 +84,7 @@ sauce: https://www.reddit.com/r/animepiracy/comments/ijysra/the_ultimate_guide_t
 | LoLyeah's other dumps |
 | --------------------- |
 | [Typemoon dumps](https://github.com/LoLyeah/dump/blob/master/typemoon.md) |
-| [Aggregate sites list](https://github.com/LoLyeah/dump/blob/master/aggregate.md) |
+| [Aggregate site list](https://github.com/LoLyeah/dump/blob/master/aggregate.md) |
 
 ---------------------------------------
 

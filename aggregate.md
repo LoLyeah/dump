@@ -5,7 +5,7 @@ If you want to read manga with tons of ads but stable site (since they use pirac
 I recommend TachiyomiSY for Android, since it have mass-migrate feature, in case aggregate sites that you use dies. Also, all manga sites are recommended if you use Tachiyomi (since won't have ads if you use Tachiyomi). Just don't install everything since it would make manga searching slower.
 ## Recommended
 * Manganelo
-Mangasee
+* Mangasee
 Mangalife
 Mangairo
 WebtoonXYZ

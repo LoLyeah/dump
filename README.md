@@ -28,7 +28,7 @@ Mangakakalot, mangapark, fanfox whatever etc. These rip aggressively and do not 
 ## Clients (Online & Offline)
 ### Android: Tachiyomi
 
-Tachiyomi. Im sure you heard of it. Its free its on github. It doesn't host manga. Instead it lets you use the extensions you want to use. On mobile quality is variable. So you can just decide to do whatever you want. Also you can search on all the extensions you have downloaded. [There are also several versions forked by other people](https://tachiyomi.org/forks/). I recommend TachiyomiSY fork since it have more features, but vanilla is pretty much satisfactory. Choose any version that you like.
+Tachiyomi. Im sure you heard of it. Its free its on github. It doesn't host manga. Instead it lets you use the extensions you want to use. On mobile quality is variable. So you can just decide to do whatever you want. Also you can search on all the extensions you have downloaded. [There are also several versions forked by other people](https://tachiyomi.org/forks/). I recommend TachiyomiSY fork since it have more features and mass migrate, but vanilla is pretty much satisfactory. Choose any version that you like.
 
 ### IOS: Paperback
 
@@ -82,6 +82,7 @@ sauce: https://www.reddit.com/r/animepiracy/comments/ijysra/the_ultimate_guide_t
 | LoLyeah's other dumps |
 | --------------------- |
 | [Typemoon dumps](https://github.com/LoLyeah/dump/blob/master/typemoon.md) |
+| [Aggregate sites list](https://github.com/LoLyeah/dump/blob/master/aggregate.md) |
 
 ---------------------------------------
 

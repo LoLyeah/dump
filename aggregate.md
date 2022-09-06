@@ -8,19 +8,21 @@ I recommend TachiyomiSY for Android, since it have mass-migrate feature, in case
 * Manganelo
 * Mangasee
 * Mangalife
-* Mangapark
-* Mangafreak
+* Manganato
 * Mangabat
 * readmanhwa.com
 * WebtoonXYZ
 * Earlymanga
-## Other aggregates
+* Toonily
+## Other aggregates (Unstable source)
 * ManhwaManga.net
 * Mangakakalot
 * Mangareader
 * Mangapanda
 * Mangahere
 * Mangairo
+* Mangafreak
+* Mangapark
 ## Not Recommended
 * Bato.to
 ## Unknown (Not Tested)

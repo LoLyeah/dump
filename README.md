@@ -23,6 +23,10 @@ Yaoi stuff. Basically this has a lot of LGBT stuff. So if you can't find the gay
 
 Similar to Mangadex except its not. Everyone is free to upload so quality varies greatly. Have an awful UI and owned by MangaPark. Obviously it's not the original Batoto we once know. They also allow reupload from official translation, so there's that. Have many languages too like Mangadex. Not recommended but you could use it if you want.
 
+### earlymanga
+
+the site have old mangadex template, which is one of the best UI website imo, the manga and manhwa more of the newer release instead of the old ones.
+
 ### Literally any aggregate site
 
 Mangakakalot, mangapark, fanfox whatever etc. These rip aggressively and do not care about quality. There library but there quality is horrible. If an april fools chapter is uploaded it will remain there forever. [List of aggregate sites that I knew](https://github.com/LoLyeah/dump/blob/master/aggregate.md)

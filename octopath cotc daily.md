@@ -70,3 +70,5 @@ You unlock hunts by following the main story till you get to cragspear. The PRIM
 * Preceding table data was originally compiled by "Unskillable" * Weapon: Battle Tested Tome Location: Theatropolis, Main City, Archive Building Weaknesses: Dagger, Wind * Weapon: Battle Tested Bow Location: Emberglow, Main Boulevard, Bottom Path Weaknesses: Fan, Light * Weapon: Battle Tested Axe Location: Valore, Main Boulevard, Hidden Tree Path Weaknesses: Staff, Dark * Weapon: Battle Tested Spear Location: Rippletide, Main City, House on the right of Blacksmith Weaknesses: Bow, Fire
 
 ## Updated as of content patch drop 08/24/22
+
+https://www.reddit.com/r/octopathtraveler/comments/wg9w3g/daily_checklist_primerhunt_recommendation/

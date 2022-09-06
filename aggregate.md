@@ -13,6 +13,7 @@ I recommend TachiyomiSY for Android, since it have mass-migrate feature, in case
 * Mangabat
 * readmanhwa.com
 * WebtoonXYZ
+* Earlymanga
 ## Other aggregates
 * ManhwaManga.net
 * Mangakakalot

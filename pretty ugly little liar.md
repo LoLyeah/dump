@@ -14,10 +14,12 @@ uploads.txt, profiles.txt, sitemap.txt - a collection of links I used when downl
 
 and of course the magnet link
 
-magnet:?xt=urn:btih:a42b8330d938b81c6ef0469a76b9a3c459ead5a1&dn=prettyuglylittleliar.net&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce
+magnet:?xt=urn:btih:a42b8330d938b81c6ef0469a76b9a3c459ead5a1&dn=prettyuglylittleliar.net&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce
 PS: If you can, set the uploads folder to low priority so you can download the more important site content first!
 
 Edit 10/20/2020 - Okay I decided to put the link back, since I was getting ~5 messages a day asking for it, and I saw it reposted in a few other places. If anyone still wants it gone, ask the subreddit moderators with proof as to why you want it removed, and they will delete this entire post.
+
+Edit 4/24/2022 - Added more trackers to magnet link, the original one stopped working
 
 https://amp.reddit.com/r/Archiveteam/comments/i9im8j/request_prettyuglylittleliarnet/g1q3a8l/
 
